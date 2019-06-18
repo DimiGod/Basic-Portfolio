@@ -56,12 +56,12 @@ nav ul li {
     margin-right: auto;
     min-width: 25rem;
     max-width: 60rem;
-    background-color: #FFFFCC;
+    background-color:#4682B4;
     padding: 1em;
 }
 
 #container > * {
-    background-color: #CCFFCC;
+    background-color:#F0F8FF;
     margin: 1em;
     padding: 1em;
 }
